@@ -2,7 +2,7 @@
 layout: post
 title: 'Flickr Uploadr エラー: "Houston, we have a problem" の対処'
 ---
-<img src="http://blog.nocorica.jp/wp-content/uploads/2013/09/Houston.png" alt="Houston" width="317" height="260" class="alignnone size-full wp-image-276" title="Flickr Uploadr: Houston, we have a problem" />
+<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/09/Houston.png" alt="Houston" width="317" height="260" class="alignnone size-full wp-image-276" title="Flickr Uploadr: Houston, we have a problem" />
 
 <blockquote>
 <strong>Houston, we have a problem</strong>

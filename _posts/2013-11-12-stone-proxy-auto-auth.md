@@ -2,7 +2,7 @@
 layout: post
 title: "stoneを使ってプロキシ認証を自動化する"
 ---
-<img src="http://blog.nocorica.jp/wp-content/uploads/2013/11/proxy-auth-dialog.png" alt="proxy-auth-dialog" width="439" height="296" class="alignnone size-full wp-image-337" /><!--more-->
+<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/11/proxy-auth-dialog.png" alt="proxy-auth-dialog" width="439" height="296" class="alignnone size-full wp-image-337" /><!--more-->
 
 <h3>はじめに</h3>
 検索してここに辿り着いたあなたは、さぞかしお怒りのことでしょう。

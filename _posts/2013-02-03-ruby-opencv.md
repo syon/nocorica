@@ -2,7 +2,7 @@
 layout: post
 title: "Ruby & OpenCVで画像処理"
 ---
-<img src="http://blog.nocorica.jp/wp-content/uploads/2013/02/cv1-e1359880824316.png" alt="" width="650" height="391" class="alignnone size-full wp-image-93" /><!--more-->
+<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/02/cv1-e1359880824316.png" alt="" width="650" height="391" class="alignnone size-full wp-image-93" /><!--more-->
 <h4>導入</h4>
 <ul>
 <li><a href="http://ser1zw.hatenablog.com/entry/2013/01/29/235320">ruby-opencvをようやくRubyGems.orgに登録しました - ser1zw's blog</a></li>

@@ -2,7 +2,7 @@
 layout: post
 title: "KORG padKONTROLを買ったよ"
 ---
-<img src="http://blog.nocorica.jp/wp-content/uploads/2013/01/padKONTROL.png" alt="padKONTROL" width="473" height="370" class="alignnone size-full wp-image-46" /><!--more-->
+<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/01/padKONTROL.png" alt="padKONTROL" width="473" height="370" class="alignnone size-full wp-image-46" /><!--more-->
 <h4>参考にしたサイト</h4>
 <ul>
 	<li><a href="http://www.korg.com/padkontrol">MIDI Studio Controller | Drum Pad | Korg padKONTROL</a></li>
