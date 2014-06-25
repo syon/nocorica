@@ -2,18 +2,20 @@
 layout: post
 title: "Ruby & OpenCVで画像処理"
 ---
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/02/cv1-e1359880824316.png" alt="" width="650" height="391" class="alignnone size-full wp-image-93" /><!--more-->
-<h4>導入</h4>
-<ul>
-<li><a href="http://ser1zw.hatenablog.com/entry/2013/01/29/235320">ruby-opencvをようやくRubyGems.orgに登録しました - ser1zw's blog</a></li>
-<li><a href="http://tools4hack.santalab.me/howto-mountainlion-install-homebrew.html">[Mac] Mountain Lionへパッケージ管理「Homebrew」をインストールする手順のメモ | Tools 4 Hack</a></li>
-</ul>
 
-<h4>画像を表示する</h4>
-<ul>
-<li><a href="https://github.com/ruby-opencv/ruby-opencv">ruby-opencv/ruby-opencv · GitHub</a></li>
-</ul>
-<pre class="lang:ruby decode:true " title="sample.rb" >
+<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/02/cv1-e1359880824316.png" alt="" width="650" height="391" class="alignnone size-full wp-image-93" />
+
+### 導入
+
+- [ruby-opencvをようやくRubyGems.orgに登録しました - ser1zw's blog](http://ser1zw.hatenablog.com/entry/2013/01/29/235320)
+- [Mountain Lionへパッケージ管理「Homebrew」をインストールする手順のメモ - Tools 4 Hack](http://tools4hack.santalab.me/howto-mountainlion-install-homebrew.html)
+
+
+### 画像を表示する
+
+- [ruby-opencv/ruby-opencv · GitHub](https://github.com/ruby-opencv/ruby-opencv)
+
+```ruby
 require 'opencv'
 include OpenCV
 
@@ -33,20 +35,16 @@ end
 window = GUI::Window.new('Display window') # Create a window for display.
 window.show(image) # Show our image inside it.
 GUI::wait_key # Wait for a keystroke in the window.
-</pre>
+```
 
-<p>
-$ ruby sample.rb Lenna.jpeg ってやると画像が表示される。
+`$ ruby sample.rb Lenna.jpeg`ってやると画像が表示される。
 画像のウィンドウで何かキーを押すと処理終了。
-<br/>
-</p>
 
-<h4>テンプレートマッチング</h4>
-<li><ul>
-<a href="http://qiita.com/items/9f277d7fc0479c9f4ca4">ruby-opencv を使ってテンプレートマッチングしてみた #Ruby #OpenCV - Qiita</a>
-</li></ul>
+### テンプレートマッチング
 
-<pre class="lang:ruby decode:true " title="matching.rb" >
+- [ruby-opencv を使ってテンプレートマッチングしてみた #Ruby #OpenCV - Qiita](http://qiita.com/items/9f277d7fc0479c9f4ca4)
+
+```ruby
 #!/usr/bin/env ruby
 
 require 'opencv'
@@ -68,9 +66,7 @@ window.show image
 GUI::wait_key
 
 image.save_image("output.png")
-</pre> 
+```
 
-<p>
-template.jpgにマッチする範囲の境界線を黒で描く。
-画像のウィンドウで何かキーを押すと"output.png"を出力して処理終了。
-</p>
+template.jpg にマッチする範囲の境界線を黒で描く。
+画像のウィンドウで何かキーを押すと output.png を出力して処理終了。
