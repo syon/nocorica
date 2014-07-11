@@ -3,7 +3,7 @@ layout: post
 title: "Ruby & OpenCVで画像処理"
 ---
 
-<img src="/postimg/2013/02/cv1-e1359880824316.png" alt="" width="650" height="391" class="alignnone size-full wp-image-93" />
+![Ruby & OpenCV](/postimg/2013/02/cv1.png)
 
 ### 導入
 
