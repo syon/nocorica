@@ -2,7 +2,7 @@
 layout: post
 title: "MacBook Air (Mid 2011) を初期化（再インストール）するよ"
 ---
-<a href="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_1.jpg"><img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_1.jpg" alt="IMG_1" width="650" height="488" class="alignnone size-full wp-image-146" /></a><!--more-->
+<a href="/postimg/2013/04/IMG_1.jpg"><img src="/postimg/2013/04/IMG_1.jpg" alt="IMG_1" width="650" height="488" class="alignnone size-full wp-image-146" /></a><!--more-->
 
 
 <h4>参考</h4>
@@ -32,30 +32,30 @@ title: "MacBook Air (Mid 2011) を初期化（再インストール）するよ"
 </ul>
 
 <div style="width:100%;height:1em;"></div>
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_2.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-147" style="margin-top:3em;" />
+<img src="/postimg/2013/04/IMG_2.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-147" style="margin-top:3em;" />
 <p>
 commandキーとRキーを押しながら再起動。
 ディスクユーティリティを選択。
 </p>
 
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_3.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-148" style="margin-top:3em;" />
+<img src="/postimg/2013/04/IMG_3.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-148" style="margin-top:3em;" />
 <p>
 「Macintosh HD」を選択、消去タブに切り替えて「消去...」ボタンで実行。
 あんまり中身なかったので一瞬で終わった。
 </p>
 
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_4.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-149" style="margin-top:3em;" />
+<img src="/postimg/2013/04/IMG_4.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-149" style="margin-top:3em;" />
 <p>
 Mac OS X を再インストール。
 </p>
 
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_5.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-150" style="margin-top:3em;" />
+<img src="/postimg/2013/04/IMG_5.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-150" style="margin-top:3em;" />
 
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_6.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-151" style="margin-top:3em;" />
+<img src="/postimg/2013/04/IMG_6.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-151" style="margin-top:3em;" />
 
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_7.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-152" style="margin-top:3em;" />
+<img src="/postimg/2013/04/IMG_7.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-152" style="margin-top:3em;" />
 
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/04/IMG_8.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-153" style="margin-top:3em;" />
+<img src="/postimg/2013/04/IMG_8.jpg" alt="" width="650" height="488" class="alignnone size-full wp-image-153" style="margin-top:3em;" />
 <p>
 おわり。
 </p>

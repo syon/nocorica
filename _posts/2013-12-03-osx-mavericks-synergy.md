@@ -11,12 +11,12 @@ title: "OSX Mavericks で Synergy を動かす手順"
 以下、旧版向けに手順を残しておきます。
 <hr style="margin:4em 0;">
 
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/12/pref.png" alt="pref" width="668" height="200" class="alignnone size-full wp-image-349" />
+<img src="/postimg/2013/12/pref.png" alt="pref" width="668" height="200" class="alignnone size-full wp-image-349" />
 システム環境設定を開き、「セキュリティとプライバシー」を選択します。
 
 <div style="height:30px;"></div>
 
-<img src="http://mel.mond.jp/nocorica.jp/blog/wp-content/uploads/2013/12/security.png" alt="security" width="668" height="522" class="alignnone size-full wp-image-350" />
+<img src="/postimg/2013/12/security.png" alt="security" width="668" height="522" class="alignnone size-full wp-image-350" />
 プライバシータブの左にあるリストからアクセシビリティを選択。
 ターミナルがあればチェック。もしなければ、アプリケーションフォルダにあるユーティリティに入っているターミナルアイコンをドラッグ＆ドロップします。
 
