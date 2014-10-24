@@ -234,9 +234,11 @@ a:visited { color: #205caa; }
   -moz-border-radius: 3px;
   border-radius: 3px;
   font-size: 15px;
+  word-wrap: break-word;
 }
 
 .post code { padding: 1px 5px; }
+.post pre code { padding: 0; }
 
 .post ul,
 .post ol { margin-left: 1.35em; }
