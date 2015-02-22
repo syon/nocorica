@@ -595,7 +595,12 @@ html {
   margin: 60px auto;
 }
 .adsense ins {
-  margin: 0 30px;
+  margin: 0 25px;
+}
+@media (max-width: 1200px) {
+  .adsense ins {
+    margin: 0 0;
+  }
 }
 /* ------ */
 /* FOOTER */
