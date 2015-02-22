@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "RubyでMacのスクリーンショット画像を解析"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: Engineering
+tags:
+  - Ruby
 ---
 <!--more-->
 <h3>"screencapture"コマンドからのアプローチ</h3>

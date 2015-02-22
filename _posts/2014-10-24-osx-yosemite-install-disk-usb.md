@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "OSX Yosemite USBインストールディスク作成手順"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [How to]
+tags:
+  - Mac
 ---
 
 ## App Store からダウンロード

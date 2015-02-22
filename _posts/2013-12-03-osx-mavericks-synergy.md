@@ -1,6 +1,14 @@
 ---
 layout: post
 title: "OSX Mavericks で Synergy を動かす手順"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [Trouble shooting]
+tags:
+  - Mac
+  - Software
 ---
 <strong>2014.02.18 修正版がリリースされました。</strong>
 <ul><li><a href="http://synergy-foss.org/blog/synergy-1-4-16-released/">Synergy Blog - Synergy 1.4.16 released</a></li></ul>

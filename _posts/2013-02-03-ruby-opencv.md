@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "Ruby & OpenCVで画像処理"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: Engineering
+tags:
+  - Ruby
 ---
 
 ![Ruby & OpenCV](/postimg/2013/02/cv1.png)

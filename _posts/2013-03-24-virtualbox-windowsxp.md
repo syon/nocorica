@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "Windows7のVirtualBoxで仮想WindowsXPを動かす"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [How to]
+tags:
+  - VirtualBox
 ---
 <a href="/postimg/2013/03/01.png"><img src="/postimg/2013/03/01.png" alt="01" width="778" height="580" class="alignnone size-full wp-image-111" /></a><!--more-->
 <h4>参考</h4>

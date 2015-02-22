@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "ローカルでのWebサイト作成に役立つPythonのWebサーバ SimpleHTTPServer / http.server"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: Engineering
+tags:
+  - Server
 ---
 <h4>Python 2</h4>
 <blockquote><code>$ python -m SimpleHTTPServer 8000</code></blockquote>

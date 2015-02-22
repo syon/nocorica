@@ -1,6 +1,14 @@
 ---
 layout: post
 title: "つまずいた箇所メモ『RailsによるアジャイルWebアプリケーション開発 第4版』"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [Trouble shooting]
+tags:
+  - Ruby
+  - Rails
 ---
 <h3>Rails 3.2.13</h3>
 

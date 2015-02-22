@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "MacBook Air (Mid 2011) を初期化（再インストール）するよ"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [How to]
+tags:
+  - Mac
 ---
 <a href="/postimg/2013/04/IMG_1.jpg"><img src="/postimg/2013/04/IMG_1.jpg" alt="IMG_1" width="650" height="488" class="alignnone size-full wp-image-146" /></a><!--more-->
 

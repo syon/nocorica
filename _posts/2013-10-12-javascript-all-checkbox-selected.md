@@ -1,6 +1,14 @@
 ---
 layout: post
 title: "チェックボックスをすべて選択するJavaScriptとブックマークレット"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: Engineering
+tags:
+  - JavaScript
+  - jQuery
 ---
 <style>
 form[name="monthlist"] {

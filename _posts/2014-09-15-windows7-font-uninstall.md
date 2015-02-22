@@ -1,6 +1,14 @@
 ---
 layout: post
 title: "Windows7でフォントがアンインストールできない時の対処法"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [Trouble shooting]
+tags:
+  - Windows
+  - Software
 ---
 
 <img src="/postimg/2014/09/15-1.png" alt="fonts" width="700" height="525" />

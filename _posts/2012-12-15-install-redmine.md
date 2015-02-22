@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "BitNami Redmine 2.1.4のインストールと設定"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [How to]
+tags:
+  - Software
 ---
 
 - http://bitnami.org/ja/stack/redmine

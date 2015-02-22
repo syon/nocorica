@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "KORG padKONTROLを買ったよ"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: Engineering
+tags:
+  - Gadget
 ---
 <img src="/postimg/2013/01/padKONTROL.png" alt="padKONTROL" width="473" height="370" class="alignnone size-full wp-image-46" /><!--more-->
 <h4>参考にしたサイト</h4>

@@ -10,9 +10,37 @@ kramdown:
   input: GFM
 
 # Site settings
-title: nocorica.jp
+title: nocorica
+description: "Fragments of Geek Life"
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 baseurl: ""
-url: "http://blog.nocorica.jp"
+url: http://blog.nocorica.jp"
 production_url : http://blog.nocorica.jp
+
+#
+# HMFAYSAL OMEGA THEME
+#
+logo:             omikron.png
+default_bg:       default_bg1.jpg
+triangleheader:   true
+animated_fins:    true
+fin_color:        "255,255,255"
+owner:
+  name:           syon
+  avatar:         avatar.png
+  twitter:        syonxv
+  github:         syon
+  stackexchange:  https://stackexchange.com/users/5003487/syon
+links:
+  - title: <i class="icon-home"></i> Home
+    url: /
+    external: false
+  - title: <i class="icon-book"></i> Categories
+    url: /categories
+  - title: <i class="icon-book"></i> Tags
+    url: /tags
+paginate:         6
+paginate_path:    "page:num"
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-37634759-1

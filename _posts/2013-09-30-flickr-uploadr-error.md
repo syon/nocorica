@@ -1,6 +1,13 @@
 ---
 layout: post
 title: 'Flickr Uploadr エラー: "Houston, we have a problem" の対処'
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [Trouble shooting]
+tags:
+  - Software
 ---
 <img src="/postimg/2013/09/Houston.png" alt="Houston" width="317" height="260" class="alignnone size-full wp-image-276" title="Flickr Uploadr: Houston, we have a problem" />
 

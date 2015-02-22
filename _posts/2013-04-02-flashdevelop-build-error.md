@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "FlashDevelopでビルドエラー >> Vectors are not supported in FP9."
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [Trouble shooting]
+tags:
+  - Flash
 ---
 
 <blockquote>

@@ -1,6 +1,14 @@
 ---
 layout: post
 title: "stoneを使ってプロキシ認証を自動化する"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [How to]
+tags:
+  - Server
+  - Windowss
 ---
 
 ![proxy auth dialog](/postimg/2013/11/proxy-auth-dialog.png)

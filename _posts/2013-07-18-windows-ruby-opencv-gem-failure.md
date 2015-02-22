@@ -1,6 +1,14 @@
 ---
 layout: post
 title: "Windows Ruby 1.9.3 で opencv-0.0.7.gem の install 失敗"
+imagefeature: 
+featured: true
+description: "Its ON, baby"
+headline: "Let's Fire up the Engines"
+categories: [Trouble shooting]
+tags:
+  - Ruby
+  - Windows
 ---
 未解決。もう！なんなん！(`ε´）
 <!--more-->
