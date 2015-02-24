@@ -22,18 +22,18 @@ form[name="monthlist"]>li {
 </style>
 <h4>表示</h4>
 <form name="monthlist">
-  <li><input type="checkbox" name="january">   January
-  <li><input type="checkbox" name="february">  February
-  <li><input type="checkbox" name="march">     March
-  <li><input type="checkbox" name="april">     April
-  <li><input type="checkbox" name="may">       May
-  <li><input type="checkbox" name="june">      June
-  <li><input type="checkbox" name="july">      July
-  <li><input type="checkbox" name="august">    August
-  <li><input type="checkbox" name="september"> September
-  <li><input type="checkbox" name="october">   October
-  <li><input type="checkbox" name="november">  November
-  <li><input type="checkbox" name="december">  December
+  <li><input type="checkbox" name="january">   January</li>
+  <li><input type="checkbox" name="february">  February</li>
+  <li><input type="checkbox" name="march">     March</li>
+  <li><input type="checkbox" name="april">     April</li>
+  <li><input type="checkbox" name="may">       May</li>
+  <li><input type="checkbox" name="june">      June</li>
+  <li><input type="checkbox" name="july">      July</li>
+  <li><input type="checkbox" name="august">    August</li>
+  <li><input type="checkbox" name="september"> September</li>
+  <li><input type="checkbox" name="october">   October</li>
+  <li><input type="checkbox" name="november">  November</li>
+  <li><input type="checkbox" name="december">  December</li>
 </form>
 <h4>HTMLソース</h4>
 <pre class="lang:default decode:true " >&lt;form name="monthlist"&gt;
