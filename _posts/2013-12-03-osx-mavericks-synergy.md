@@ -17,6 +17,7 @@ tags:
 ダウンロード: <a href="http://synergy-foss.org/download/?list">http://synergy-foss.org/download/?list</a>
 
 以下、旧版向けに手順を残しておきます。
+
 <hr style="margin:4em 0;">
 
 <img src="/postimg/2013/12/pref.png" alt="pref" width="668" height="200" class="alignnone size-full wp-image-349" />
