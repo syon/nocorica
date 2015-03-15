@@ -590,6 +590,10 @@ html {
     position: relative;
   }
 }
+.adsense-posttop ins {
+  display: block !important;
+  margin: 2em auto;
+}
 .adsense {
   text-align: center;
   margin: 60px auto;
