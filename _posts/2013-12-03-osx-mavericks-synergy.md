@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "OSX Mavericks で Synergy を動かす手順"
-imagefeature: 
+description: "OSX Mavericks で Synergy を動かす手順"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [Trouble shooting]
 tags:

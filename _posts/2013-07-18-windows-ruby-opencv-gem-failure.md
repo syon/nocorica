@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Windows Ruby 1.9.3 で opencv-0.0.7.gem の install 失敗"
-imagefeature: 
+description: "Windows Ruby 1.9.3 で opencv-0.0.7.gem の install 失敗"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [Trouble shooting]
 tags:
@@ -60,9 +61,9 @@ extconf.rb:32:in `block in &lt;main&gt;': libcxcore not found. (RuntimeError)
 
 Gem files will remain installed in C:/Ruby193/lib/ruby/gems/1.9.1/gems/opencv-0.0.7 for inspection.
 Results logged to C:/Ruby193/lib/ruby/gems/1.9.1/gems/opencv-0.0.7/ext/gem_make.out
-</pre> 
+</pre>
 
- 
+
 <h4>gem_make.out</h4>
 <pre class="lang:default highlight:0 decode:true " title="gem_make.out" >C:/Ruby193/bin/ruby.exe extconf.rb
 &gt;&gt; check require libraries...
@@ -101,4 +102,4 @@ Provided configuration options:
 extconf.rb:32:in `block in &lt;main&gt;': libcxcore not found. (RuntimeError)
   from extconf.rb:31:in `each'
   from extconf.rb:31:in `&lt;main&gt;'
-</pre> 
+</pre>

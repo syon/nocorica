@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "OSX Yosemite USBインストールディスク作成手順"
-imagefeature: 
+description: "OSX Yosemite USBインストールディスク作成手順"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [How to]
 tags:
@@ -71,4 +72,3 @@ sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstall
 下図のようにUSB起動ディスクが認識されれば成功。
 
 ![](/postimg/2014/10/24-disk.jpg)
-

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Ruby & OpenCVで画像処理"
-imagefeature: 
+description: "Ruby & OpenCVで画像処理"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: Engineering
 tags:

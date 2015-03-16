@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "つまずいた箇所メモ『RailsによるアジャイルWebアプリケーション開発 第4版』"
-imagefeature: 
+description: "つまずいた箇所メモ『RailsによるアジャイルWebアプリケーション開発 第4版』"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [Trouble shooting]
 tags:
@@ -21,11 +22,11 @@ tags:
 <h4>P152</h4>
 <blockquote>ActiveModel::MassAssignmentSecurity::Error in OrdersController#create
 Can't mass-assign protected attributes: name, address, email, pay_type</blockquote>
- 
+
 <pre class="lang:ruby decode:true " title="depot/app/models/order.rb" ># encoding: utf-8
 class Order &lt; ActiveRecord::Base
   attr_accessible :name, :address, :email, :pay_type
-  PAYMENT_TYPES = [ "現金", "クレジットカード", "注文書" ]</pre> 
+  PAYMENT_TYPES = [ "現金", "クレジットカード", "注文書" ]</pre>
 
 attr_accessible の記述が必要。
 

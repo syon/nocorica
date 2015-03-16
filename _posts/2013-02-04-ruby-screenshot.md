@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "RubyでMacのスクリーンショット画像を解析"
-imagefeature: 
+description: "RubyでMacのスクリーンショット画像を解析"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: Engineering
 tags:
@@ -16,7 +17,7 @@ tags:
 	<li><a href="http://d.hatena.ne.jp/zariganitosh/20121124/one_liner_screenshot">ワンライナーでそのまま使えるスクリーンショットが撮れる！ - ザリガニが見ていた...。</a></li>
 	<li><a href="http://d.hatena.ne.jp/nishiohirokazu/20120731/1343745529">Macのスクリーンショットで1日の作業を記録して動画で振り返り - 西尾泰和のはてなダイアリー</a></li>
 </ul>
- 
+
 <h4>"screencapture"コマンド</h4>
 <pre class="lang:default highlight:0 decode:true " title="screencapture" >
 usage: screencapture [-icMPmwsWxSCUtoa] [files]
@@ -44,7 +45,7 @@ usage: screencapture [-icMPmwsWxSCUtoa] [files]
   -l&lt;windowid&gt; capture this windowsid
   -R&lt;x,y,w,h&gt; capture screen rect
   files   where to save the screen capture, 1 file per screen
-</pre> 
+</pre>
 <p>
 "-R&lt;x,y,w,h&gt;"の書き方がわからない。。
 </p>

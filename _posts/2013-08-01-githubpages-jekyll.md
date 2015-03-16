@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "メモ: GitHub Pages & Jekyll"
-imagefeature: 
+description: "メモ: GitHub Pages & Jekyll"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: Engineering
 tags:

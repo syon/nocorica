@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "stoneを使ってプロキシ認証を自動化する"
-imagefeature: 
+description: "stoneを使ってプロキシ認証を自動化する"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [How to]
 tags:

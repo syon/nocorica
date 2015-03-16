@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "LeapMotionを使ってMissionControlの仮想デスクトップ間を移動"
-imagefeature: 
+description: "LeapMotionを使ってMissionControlの仮想デスクトップ間を移動"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: Engineering
 tags:

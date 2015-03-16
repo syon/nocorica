@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Windows7でフォントがアンインストールできない時の対処法"
-imagefeature: 
+description: "Windows7でフォントがアンインストールできない時の対処法"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [Trouble shooting]
 tags:

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "チェックボックスをすべて選択するJavaScriptとブックマークレット"
-imagefeature: 
+description: "チェックボックスをすべて選択するJavaScriptとブックマークレット"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: Engineering
 tags:
@@ -49,8 +50,8 @@ form[name="monthlist"]>li {
   &lt;li&gt;&lt;input type="checkbox" name="october"&gt;   October
   &lt;li&gt;&lt;input type="checkbox" name="november"&gt;  November
   &lt;li&gt;&lt;input type="checkbox" name="december"&gt;  December
-&lt;/form&gt;</pre> 
- 
+&lt;/form&gt;</pre>
+
 <h4>ページに存在するすべてのチェックボックスをONにする（jQueryなし）</h4>
 <pre class="lang:default decode:true " >var elems=document.getElementsByTagName('input');
 for(i=0;i&lt;elems.length;i++){if(elems[i].type=='checkbox'){elems[i].checked=true;}}
@@ -69,4 +70,4 @@ for(i=0;i&lt;elems.length;i++){if(elems[i].type=='checkbox'){elems[i].checked=tr
 上記のブックマークレット：<a id="checkall" href="javascript:(function(){var%20elems=document.getElementsByTagName('input');for(i=0;i%3Celems.length;i++){if(elems[i].type=='checkbox'){elems[i].checked=true;}}})();">すべて選択</a>
 
 <h4>jQueryを使ってページに存在するすべてのチェックボックスをONにする</h4>
-<pre class="lang:default decode:true " >$(':checkbox').attr("checked", true);</pre> 
+<pre class="lang:default decode:true " >$(':checkbox').attr("checked", true);</pre>

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "ローカルでのWebサイト作成に役立つPythonのWebサーバ SimpleHTTPServer / http.server"
-imagefeature: 
+description: "ローカルでのWebサイト作成に役立つPythonのWebサーバ SimpleHTTPServer / http.server"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: Engineering
 tags:

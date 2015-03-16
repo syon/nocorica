@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Windows7のVirtualBoxで仮想WindowsXPを動かす"
-imagefeature: 
+description: "Windows7のVirtualBoxで仮想WindowsXPを動かす"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [How to]
 tags:

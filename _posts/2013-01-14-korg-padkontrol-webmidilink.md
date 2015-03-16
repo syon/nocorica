@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "KORG padKONTROLを買ったよ"
-imagefeature: 
+description: "KORG padKONTROLを買ったよ"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: Engineering
 tags:

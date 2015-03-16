@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Flickr Uploadr エラー: "Houston, we have a problem" の対処'
-imagefeature: 
+description: 'Flickr Uploadr エラー: "Houston, we have a problem" の対処'
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [Trouble shooting]
 tags:

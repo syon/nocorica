@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Atomでパッケージをインストールする方法とメニューの日本語化"
+description: "Atomでパッケージをインストールする方法とメニューの日本語化"
 imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [How to]
 tags:

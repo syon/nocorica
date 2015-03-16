@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "MacBook Air (Mid 2011) を初期化（再インストール）するよ"
-imagefeature: 
+description: "MacBook Air (Mid 2011) を初期化（再インストール）するよ"
+imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [How to]
 tags:

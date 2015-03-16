@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Node.js と npm のアップデート"
+description: "Node.js と npm のアップデート"
 imagefeature:
 featured: true
-description: "Its ON, baby"
+message: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: [How to]
 tags:
