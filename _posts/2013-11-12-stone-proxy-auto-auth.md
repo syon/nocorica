@@ -23,7 +23,7 @@ tags:
 
 ### stoneの入手
 
-- [Simple Repeater `stone'](://www.gcd.org/sengoku/stone/Welcome.ja.html)  
+- [Simple Repeater `stone'](http://www.gcd.org/sengoku/stone/Welcome.ja.html)  
 
 stone version 2.3e for WindowsXP をダウンロード  
 ※Windows7でも使えています  
@@ -32,7 +32,7 @@ stone version 2.3e for WindowsXP をダウンロード
 
 ### 認証情報のBase64エンコード
 
-- [JavaScript による Base64 エンコーダ/デコーダ](://homepage3.nifty.com/georgei/hmetzger/base64.html)  
+- [JavaScript による Base64 エンコーダ/デコーダ](http://homepage3.nifty.com/georgei/hmetzger/base64.html)  
 
 `username:password` の形式でBase64エンコードします。  
 例） `tanaka:secret123`　→　`dGFuYWthOnNlY3JldDEyMw==`
