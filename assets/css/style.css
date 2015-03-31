@@ -601,6 +601,28 @@ html {
 .adsense ins {
   margin: 0 25px;
 }
+.asin-detail {
+  margin: 1em 0;
+  padding: 0.8em 0.6em;
+  border: 1px solid #ddd;
+  border-image: initial;
+  font-size: 80%;
+}
+.asin-detail .asin-detail-image {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 30px;
+}
+.asin-detail-title {
+  margin: 0 0 .3em 0;
+  font-size: 120%;
+  font-weight: bold;
+  line-height: 1.4;
+}
+.asin-detail ul {
+  list-style: none;
+}
+
 @media (max-width: 1200px) {
   .adsense ins {
     margin: 0 0;
