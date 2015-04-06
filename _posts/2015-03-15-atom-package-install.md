@@ -34,33 +34,15 @@ tags:
 
 ![](/postimg/2015/03/15-3.png)
 
-「__Localization__」というパッケージを検索してインストールします。
-
-### 再起動
+「 __japanese-menu__ 」というパッケージを検索してインストールします。
 
 ![](/postimg/2015/03/15-4.png)
 
-Atomを再起動します。
-
-### 設定を Japanese に変更
+はい、おわり。簡単ですね！
 
 ![](/postimg/2015/03/15-5.png)
 
-メニューの Packages に Localization が追加されているので、そこから Japanese を選択します。すると、自動的に Atom が再起動されてメニューが日本語化されているのが確認できます。
+右クリックで表示される、コンテキストメニューも日本語化されていますよ。
 
-![](/postimg/2015/03/15-6.png)
-
-### うまくいかないときは？
-
-![](/postimg/2015/03/15-7.png)
-
-Japanese を選択しても、Atomが再起動されず無反応な場合があります。そのような場合には Localization の設定画面で Current Language に Japanese と手打ちして再起動したところうまく反映されました。
-
-### 警告が出る (2015.03.15)
-
-![](/postimg/2015/03/15-8.png)
-
-Atomのウィンドウの右下に警告アイコンが表示されました。これについては、すでに GitHub に同じ内容の報告が上がっているので待っていれば対応されるかと思います。  
-状況が変わりましたらまた更新します。
-
-- [Issues · pandarison/Atom-Localization](https://github.com/pandarison/Atom-Localization/issues)
+日本語化の設定は以上です。  
+それでは、よい Atom ライフを。
