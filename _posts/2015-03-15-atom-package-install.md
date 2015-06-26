@@ -9,7 +9,6 @@ headline: "Let's Fire up the Engines"
 categories: [How to]
 tags:
   - Atom
-  - Editor
 ---
 
 ## 設定画面を開く
