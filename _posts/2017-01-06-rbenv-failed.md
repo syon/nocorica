@@ -11,7 +11,7 @@ tags:
   - Ruby
 ---
 
-![rbenv failed](/postimg/2017/06/01.png)
+![rbenv failed](/postimg/2017/01/06-01.png)
 
 ```bash
 $ rbenv install 2.3.3
