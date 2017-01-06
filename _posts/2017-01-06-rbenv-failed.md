@@ -37,6 +37,7 @@ See `config.log' for more details
 make: *** No targets specified and no makefile found.  Stop.
 ```
 
+
 ## 調査
 
 - [Xcode Command Line Tools · macOS Sierra · Install](http://railsapps.github.io/xcode-command-line-tools.html)
@@ -51,3 +52,43 @@ clang: error: no input files
 $ xcode-select --install
 xcode-select: error: command line tools are already installed, use "Software Update" to install updates
 ```
+
+参考までにこの Mac は以下のような流れでインストールを実施していた。
+
+- rbenv をインストール
+- rbenv で Ruby v2.3.0 をインストール、成功
+- Xcode.app を Mac App Store からインストール
+  - iPhone での実機確認に手間取っていろいろと設定をいじる
+- rbenv で Ruby v2.3.3 をインストール、失敗
+
+
+## Xcode・CommandLineTools アンインストール
+
+- Xcode をアプリケーションフォルダから削除
+  - /Applications/Xcode.app
+  - AppCleaner.app を使用
+    - https://freemacsoft.net/appcleaner/
+
+- CommandLineTools をライブラリフォルダから削除
+  - 下記コマンド実施後、残ってしまったものを Finder から手動で削除
+```bash
+$ rm -rf /Library/Developer/CommandLineTools
+```
+
+## Xcode・CommandLineTools の再インストール
+
+```bash
+$ xcode-select --install
+```
+
+## 確認
+
+```bash
+$ rbenv install　2.3.3
+Downloading ruby-2.3.3.tar.bz2...
+-> https://cache.ruby-lang.org/pub/ruby/2.3/ruby-2.3.3.tar.bz2
+Installing ruby-2.3.3...
+Installed ruby-2.3.3 to /Users/syon/.rbenv/versions/2.3.3
+```
+
+インストール成功した！
