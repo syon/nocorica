@@ -71,11 +71,16 @@ xcode-select: error: command line tools are already installed, use "Software Upd
 
 - CommandLineTools をライブラリフォルダから削除
   - 下記コマンド実施後、残ってしまったものを Finder から手動で削除
+
 ```bash
 $ rm -rf /Library/Developer/CommandLineTools
 ```
 
+
 ## Xcode・CommandLineTools の再インストール
+
+- Xcode.app を Mac App Store からインストール
+- Xcode・CommandLineTools をインストール
 
 ```bash
 $ xcode-select --install
