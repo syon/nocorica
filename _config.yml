@@ -15,3 +15,6 @@ gems:
 
 #Others
 markdown: kramdown
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-37634759-1
