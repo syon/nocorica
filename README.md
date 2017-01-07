@@ -6,7 +6,11 @@ nocorica
 Jekyll Official Image
 
 ```
-$ docker run -it --rm -p 4000:4000 -v (pwd):/srv/jekyll jekyll/jekyll jekyll serve
+$ sh start.sh
+```
+
+```
+$ sh stop.sh
 ```
 
 - http://localhost:4000
