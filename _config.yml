@@ -3,7 +3,7 @@ title:        nocorica
 tagline:      Fragments of Geek Life
 baseurl:      ""
 paginate:     1
-permalink:    /:year/:month/:title 
+permalink:    /:year/:month/:title/
 
 # About/contact
 author:
