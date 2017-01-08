@@ -14,8 +14,9 @@ author:
 gems:
   - jekyll-paginate
 
-#Others
+# Markdown
 markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
 
