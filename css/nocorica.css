@@ -1,0 +1,16 @@
+.amzn-detail {
+  display: flex;
+  margin: 2em 0;
+  padding: .8em 1em 0;
+  border: 1px solid #ddd;
+}
+.amzn-detail > a:first-child {
+  width: 200px;
+  margin-right: 1em;
+}
+.amzn-detail > a:first-child > img {
+  width: 100%;
+}
+.amzn-detail-info {
+  flex: 1;
+}
