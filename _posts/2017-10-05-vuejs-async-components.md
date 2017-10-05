@@ -53,7 +53,6 @@ export default new Router({
 ```jade
 <template lang="pug">
 .container
-  h2 {{ $route.params.id }}
   async-article
 </template>
 
