@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js - 非同期コンポーネントとvue-routerサンプル"
+title: "Vue.js - 非同期コンポーネントとvue-router組合せサンプル"
 description: "Vue.jsでRecursive Componentsエラー"
 categories: [How to]
 tags:
