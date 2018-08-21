@@ -12,7 +12,7 @@ tags:
 
 ## チェック① <br> Vue.js devtools がインストールされているか
 
-灯台下暗し。他人のPCだったり、最近PCを切り替えたりしていませんか。または、妖精さんの仕業で __オフ__ になっていたりしませんか。Chrome本体のアップデートでセキュリティが強化されて安全のため自動的に停止されているなんて可能性はありそうです。
+灯台下暗し。他人のPCだったり、最近PCを新調したりしていませんか。または、妖精さんの仕業で __オフ__ になっていたりしませんか。Chrome本体のアップデートでセキュリティが強化されて安全のため自動的に停止されているなんて可能性はありそうです。
 
 - [chrome://extensions/](chrome://extensions/)
 - [Vue.js devtools - Chrome ウェブストア](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
@@ -22,7 +22,7 @@ tags:
 
 ## チェック② <br> Chrome Devtoolsを開くタイミング
 
-対象のページを開いてから「ん？これどうなってるんだろう…」という流れだと Chrome Devtools を後で開くとうまく表示されないことがあります。
+対象のページを開いてから「ん？これどうなってるんだろう…」という流れで Chrome Devtools を後で開くとうまく表示されないことがあります。
 ネットワークの通信状況を閲覧するときのように、Chrome Devtools を開いた状態にしてからページを読み込んでみましょう。
 
 
