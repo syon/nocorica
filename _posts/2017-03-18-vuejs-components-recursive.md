@@ -45,7 +45,7 @@ Vue.component(AnotherCompo.name, AnotherCompo);
 [単一ファイルコンポーネント](https://jp.vuejs.org/v2/guide/single-file-components.html)
 とは `SomeComponent.vue` のように *.vue 拡張子のファイルで表現したコンポーネントを指します。
 
-こちらは公式から引用した Single File Components のサンプルです。`components:`の箇所を改めてよく見てみると、<mark>__配列ではなくオブジェクト__</mark> になっているじゃありませんか。
+こちらは公式から引用した Single File Components のサンプルです。`components:`の箇所を改めてよく見てみると、__<mark>配列ではなくオブジェクト</mark>__ になっているじゃありませんか。
 
 <img src="/postimg/2017/03/18-b.png" style="max-height:700px;">
 
@@ -56,7 +56,7 @@ Vue.component(AnotherCompo.name, AnotherCompo);
 ```
 
 従来のJavaScriptを知っている方なら、これはシンタックスエラーと勘違いするかもしれません。ですが、ES2015 からショートハンドで上記のように書けるようになりました。
-言い換えると、以下の通り書いたときと同じ意味になります。
+言い換えれば、以下の通り書いたときと同じ意味になります。
 
 ```js
   components: {
@@ -69,7 +69,7 @@ Vue.component(AnotherCompo.name, AnotherCompo);
 したコンポーネント `OtherComponent` は、ケバブケース (kebab-case) `other-component` でテンプレート内に記述して利用します。
 なので `<other-component>...</other-component>` とマークアップすることでコンポーネントを配置できます。
 
-上の画像 Hello.vue のテンプレート内を見てみると `other-component` と書いてあり、呼び出していることがわかります。
+上の画像 Hello.vue のテンプレート内を見てみると `other-component` と書いてあり、コンポーネントを利用していることがわかります。
 さらにテンプレートは Jade (現Pug) で簡潔に書ける例を提示しているため `<x>` `</x>` の形式を簡略化しています。
 
 - [pugjs/pug](https://github.com/pugjs/pug#syntax)
