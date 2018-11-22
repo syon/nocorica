@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js - Unknown custom element (vue-cli Single File Components)"
+title: "Vue.js - Unknown custom element (vue-cli 単一ファイルコンポーネント)"
 description: "Vue.jsでRecursive Componentsエラー"
 categories: [Trouble shooting]
 tags:
@@ -33,9 +33,6 @@ Vue.js を試してみようと、`vue-cli` を使って Single File Components 
 コンポーネントを *.js ファイルに記述する従来の方式であれば、下記のようにしてコンポーネントを登録します。
 
 ```js
-import SomeCompo from './SomeCompo.vue'
-import AnotherCompo from './AnotherCompo.vue'
-
 Vue.component(SomeCompo.name, SomeCompo);
 Vue.component(AnotherCompo.name, AnotherCompo);
 ```
