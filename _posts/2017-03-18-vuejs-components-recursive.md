@@ -8,7 +8,10 @@ tags:
   - Vue.js
 ---
 
-![Unknown custom element](/postimg/2017/03/18-a.png)
+<picture>
+  <source type="image/webp" srcset="/postimg/2017/03/18-a.webp" />
+  <img src="/postimg/2017/03/18-a.png" alt="Unknown custom element" />
+</picture>
 
 ## Problem
 
