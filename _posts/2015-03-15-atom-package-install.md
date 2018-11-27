@@ -49,3 +49,10 @@ Windows や Ubuntu にも対応しています。
 
 日本語化の設定は以上です。  
 それでは、よい Atom ライフを。
+
+---
+
+GitHubスターでの応援お願いします！
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/syon/atom-japanese-menu" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star syon/atom-japanese-menu on GitHub">Star</a>
