@@ -56,7 +56,20 @@ Vue.jsのオンラインドキュメントでは、開発モードもしくは�
 - [はじめに — Vue.js](https://jp.vuejs.org/v2/guide/)
 
 
-## チェック⑦ <br> それでもダメなとき
+## チェック⑦ <small style="font-weight:normal;">※2020年6月追加</small> <br> <mark>Chrome DevToolsの再読込</mark>
+
+Chrome DevToolsのパネル（タブ）に、Vueだけでなく他の拡張機能のものも表示されていない場合、これで解決する見込みがあります。
+
+Chrome DevToolsの右上にあるギア⚙のアイコンから、Chrome DevTools自体の設定画面を開きます。
+開いた状態で選択されている Preferences にある Appearance 項目の Theme の選択肢を、現在のものとは別のものに一旦切り替えます。
+そうすると、Chrome DevToolsは描画に必要な要素を再認識し、Vueのパネルも復活するという対処方法です。必要に応じて、切り替えた設定をもとに戻しておきましょう。
+
+![Vue.js devtools disable cache](/postimg/2018/08/20-g.png)
+
+- [Vue.js is detected but the Vue Panel is not showing · Issue #1209 · vuejs/vue-devtools](https://github.com/vuejs/vue-devtools/issues/1209)
+
+
+## チェック⑧ <br> それでもダメなとき
 
 「以前は使えていたのに、急に使えなくなった！！」という時は、拡張機能自体を疑ってみます。
 まずは拡張機能が最近更新されたかどうか、それがインストール中のものとバージョンが一致しているかどうかを確認します。バグなどがあれば GitHub の Issue で同じように困っている人がすでに報告していないかを見てみましょう。
