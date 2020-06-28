@@ -58,7 +58,7 @@ Vue.jsのオンラインドキュメントでは、開発モードもしくは�
 
 ## チェック⑦ <small style="font-weight:normal;">※2020年6月追加</small> <br> <mark>Chrome DevToolsの再読込</mark>
 
-Chrome DevToolsのパネル（タブ）に、Vueだけでなく他の拡張機能のものも表示されていない場合、これで解決する見込みがあります。
+Vueが適切に検出されているのに表示されない、またはChrome DevToolsのパネル（タブ）に、Vueだけでなく他の拡張機能のものも表示されていない場合、これで解決する見込みがあります。
 
 Chrome DevToolsの右上にあるギア⚙のアイコンから、Chrome DevTools自体の設定画面を開きます。
 開いた状態で選択されている Preferences にある Appearance 項目の Theme の選択肢を、現在のものとは別のものに一旦切り替えます。
